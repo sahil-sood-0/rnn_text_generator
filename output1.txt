@@ -17,3 +17,7 @@ that i there and there as he make thee in thee and in thee thing
 love the more that shall be a spirition,
 that there i may not thou shalt seephers,
 that most 
+
+
+This was an output for Length 300 and temperature of 0.4.
+This temperature indicates how risky the pick shall be. Here a low temperature has caused a relatively conservative choice.
