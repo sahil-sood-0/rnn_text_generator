@@ -1,5 +1,3 @@
-super(RMSprop, self).__init__(name, **kwargs)
-2023-11-19 12:22:48.788288: W tensorflow/core/platform/profile_utils/cpu_utils.cc:128] Failed to get CPU frequency: 0 Hz
 Epoch 1/4
 651/651 [==============================] - 67s 102ms/step - loss: 2.1013
 Epoch 2/4
